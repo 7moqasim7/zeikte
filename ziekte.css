@@ -1,0 +1,67 @@
+#mo3{
+background-color: brown;
+
+bottom: 10%;
+right: 10%;
+}
+
+   body {
+
+
+   } 
+
+
+#mo4{
+ left: 100%;
+font-size:3ch;
+
+}
+
+
+#mo2{
+position: fixed;
+bottom: 24%;
+left: 3%;
+size:4cm;
+center-set: ;
+
+}
+
+
+#ui{
+
+font-size: 5ch;
+}
+ #kk{
+font-size: 3ch;
+
+
+ }
+ #uu{
+    background-color: brown;
+
+
+ }
+#q{
+    position: fixed;
+    bottom: 29%;
+    right: 40%;
+    size:4cm;
+
+
+
+}
+
+#aa{
+    position: fixed;
+    bottom: 7.5%;
+    left: 0%;
+    size:4cm;
+
+}
+#vv{
+    position: fixed;
+    bottom: -4%;
+    right: 2%;
+   size-adjust: 10ch;
+}
